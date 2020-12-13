@@ -1,0 +1,11 @@
+* Start VM
+> Source: Original app
+>> Select location
+>>> Detecting version
+>>>> Import image
+>>>>> Export project file
+>>>>> Export Reshot image
+> Source: V_Reshot package
+>> Import image
+>>> Export project file
+>>> Export Reshot image
