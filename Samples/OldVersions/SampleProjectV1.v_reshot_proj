@@ -1,0 +1,11 @@
+<xml>
+<main>
+<gameType="ID_Jewels_MHgames"></gameType>
+<gameScore1="65536"></gameScore1>
+<isGlitched="False"></isGlitched>
+<backdrop_src="../../"></backdrop_src>
+<gemsrc><pos1></pos1></gemsrc>
+<!--<isGlitched="True"><svg_glitch_coord="10, 20, 30" shape="Triangle" colorPalette="256 color">!-->
+</main>
+</xml>
+<!-- Incomplete example !-->
